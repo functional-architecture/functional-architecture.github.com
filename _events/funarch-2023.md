@@ -38,3 +38,4 @@ Chairs will be [Mike Sperber](https://www.deinprogramm.de/sperber/) and
 - [Lars Hupel](https://lars.hupel.info/) (Giesecke+Devrient)
 - [Debasish Ghosh](http://debasishg.blogspot.com/) (LeadIQ)
 - [Hannes Mehnert](https://hannes.robur.coop/) (Robur)
+- [Andy Keep](http://www.andykeep.com/) (Meta)
