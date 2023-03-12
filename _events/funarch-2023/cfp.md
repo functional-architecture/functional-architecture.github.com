@@ -144,7 +144,7 @@ to two weeks prior to the first day of the workshop.
 ## PROGRAM COMMITTEE
 
 - [Joachim Breitner](https://www.joachim-breitner.de/)
-- [Manuel Chakravarty](https://justtesting.org/) (IOHK, The Netherlands)
+- [Manuel Chakravarty](https://justtesting.org/) (Tweak & IOG, The Netherlands)
 - [Ron Garcia](https://www.cs.ubc.ca/~rxg/) (University of British Columbia)
 - [Andres Löh](https://www.andres-loeh.de/) (Well-Typed)
 - [Anil Madhavapeddy](https://anil.recoil.org/) (University of Cambridge)
