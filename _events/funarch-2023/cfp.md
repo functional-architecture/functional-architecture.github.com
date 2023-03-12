@@ -151,7 +151,7 @@ to two weeks prior to the first day of the workshop.
 - [José Pedro Magalhães](https://dreixel.net/) (Standard Chartered)
 - [Simon Marlow](https://simonmar.github.io/) (Meta)
 - Erik Meijer (Meta)
-- [Ivan Perez](https://ivanperez.io/) (NASA)
+- [Ivan Perez](https://ivanperez.io/) (KBR / NASA Ames Research Center)
 - [Stefanie Schirmer](https://linse.me/) (DuckDuckGo)
 - [Perdita Stevens](https://www.inf.ed.ac.uk/people/staff/Perdita_Stevens.html)
   (University of Edinburgh)
