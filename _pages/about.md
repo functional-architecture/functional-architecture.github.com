@@ -14,9 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-This site is devoted to the use of functional programming for *large*
-software projects: How to do it, how well it works, how it relates to
-the software architecture outside of functional programming.
+Functional Software Architecture" refers to methods of construction
+and structure of large and long-lived software projects that are
+implemented in functional languages and released to real users,
+typically in industry.
 
 This site is currently mainly the home of the [FUNARCH Workshop
 Series](/events/) co-located with the [International Conference on
