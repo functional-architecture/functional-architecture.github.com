@@ -31,3 +31,7 @@ Sep 8 or 9 2023.
 
 The [Call for Papers](cfp/) is open.
 
+News are available on [Mastodon](https://discuss.systems/@funarch) and
+[Twitter](https://twitter.com/ACMFUNARCH).
+
+
