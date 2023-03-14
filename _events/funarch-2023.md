@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FUNARCH 2023
+title: FUNARCH 2024
 description: The ACM SIGPLAN Workshop on Functional Architecture
 img: assets/img/funarch-logo.jpg
 importance: 1
