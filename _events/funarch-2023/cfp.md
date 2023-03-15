@@ -13,7 +13,7 @@ Co-located with ICFP 2023
 
 [Workshop Website](https://www.functional-architecture.org/events/funarch-2023/)
 
-## TIMELINE
+## Timeline
 
 | **Paper submission**    | 1st June 2023 |
 | **Author notification** | 28th June 2023 |
@@ -21,7 +21,7 @@ Co-located with ICFP 2023
 | **Workshop**            | 8th Sept 2023 (date to be confirmed) |
 |                         | |
 
-## BACKGROUND
+## Background
 
 "Functional Software Architecture" refers to methods of construction
 and structure of large and long-lived software projects that are
@@ -42,7 +42,7 @@ The goals for the workshop are:
 The workshop follows on from the Functional Software Architecture
 open space that was held at ICFP 2022 in Slovenia.
 
-## SCOPE
+## Scope
 
 The workshop seeks submissions in a range of categories:
 
@@ -100,7 +100,7 @@ If you are unsure whether your contribution is suitable, or if
 you need any kind of help with your submission, please email
 the program chairs at <funarch2023@easychair.org>.
 
-## SUBMISSION
+## Submission
 
 Papers must be submitted by 1st June 2023 using the [EasyChair
 submission page](https://easychair.org/my/conference?conf=funarch2023).
@@ -134,12 +134,12 @@ The official publication date is the date the proceedings are
 made available in the ACM Digital Library.  This date may be up
 to two weeks prior to the first day of the workshop.
 
-## PROGRAM CHAIRS
+## Program Chairs
 
 - [Mike Sperber](https://www.deinprogramm.de/sperber/) (Active Group, Germany)
 - [Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/) (University of Nottingham, UK)
 
-## PROGRAM COMMITTEE
+## Program Committee
 
 - [Joachim Breitner](https://www.joachim-breitner.de/)
 - [Manuel Chakravarty](https://justtesting.org/) (Tweak & IOG)
@@ -161,7 +161,7 @@ to two weeks prior to the first day of the workshop.
 - [Stefan Wehr](https://www.stefanwehr.de/) (Hochschule Offenburg)
 - [Scott Wlaschin](https://scottwlaschin.com/) (FPbridge)
 
-## WORKSHOP VENUE
+## Workshop Venue
 
 The workshop will be co-located with the ICFP 2023 conference at
 The Westin Seattle Hotel, Seattle, Washington, United States.
