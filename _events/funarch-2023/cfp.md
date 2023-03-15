@@ -11,7 +11,7 @@ category: work
 
 Co-located with [ICFP 2023](https://icfp23.sigplan.org)
 
-[https://tinyurl.com/FUNARCH23](https://tinyurl.com/FUNARCH23)
+[FUNARCH 2023](https://tinyurl.com/FUNARCH23)
 
 ## Timeline
 
