@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ACM SIGPLAN Workshop on Functional Software Architecture - FP in the Large
+title: The First ACM SIGPLAN Workshop on Functional Software Architecture - FP in the Large
 description: FUNARCH 2023 - Call for Papers
 img: assets/img/funarch-logo.jpg
 importance: 1
