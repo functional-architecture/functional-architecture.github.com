@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FUNARCH 2024
+title: FUNARCH 2023
 description: The ACM SIGPLAN Workshop on Functional Architecture
 img: assets/img/funarch-logo.jpg
 importance: 1
@@ -11,7 +11,7 @@ category: work
      https://github.com/alshedivat/al-folio/blob/master/_projects/1_project.md 
      on how to write this -->
 
-Functional Software Architecture" refers to methods of construction
+"Functional Software Architecture" refers to methods of construction
 and structure of large and long-lived software projects that are
 implemented in functional languages and released to real users,
 typically in industry.  The goals for the workshop are:
