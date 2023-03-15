@@ -13,10 +13,10 @@ Co-located with [ICFP 2023](https://icfp23.sigplan.org)
 
 ## Timeline
 
-| **Paper submission**    | | 1st June 2023 |
-| **Author notification** | | 28th June 2023 |
-| **Camera ready copy**   | | 18th July 2023 |
-| **Workshop**            | | 8th Sept 2023 (date to be confirmed) |
+| **Paper submission**    | : | 1st June 2023 |
+| **Author notification** | : | 28th June 2023 |
+| **Camera ready copy**   | : | 18th July 2023 |
+| **Workshop**            | : | 8th Sept 2023 (date to be confirmed) |
 |                         | | |
 
 ## Background
@@ -116,11 +116,11 @@ Length: submissions must adhere to the limits specified below.
 However, there is no requirement or expectation that all pages
 are used, and authors are encouraged to strive for brevity.
 
-| **Research papers**	|	5 to 12+ pages |
-| **Architectural pearls** |	5 to 12 pages |
-| **Experience reports**	| 3 to 6 pages |
-| **Open category**	|	1 to 6 pages |
-|                         | |
+| **Research papers**	   | : | 5 to 12+ pages |
+| **Architectural pearls** | : | 5 to 12 pages |
+| **Experience reports**   | : | 3 to 6 pages |
+| **Open category**	   | : | 1 to 6 pages |
+|                          |   | |
 
 Publication: The proceedings of FUNARCH 2023 will be published in the ACM Digital
 Library, and authors of accepted papers are required to agree to one
