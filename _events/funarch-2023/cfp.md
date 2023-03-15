@@ -1,28 +1,25 @@
 ---
 layout: page
-title: ACM SIGPLAN Workshop on Functional Architecture
+title: ACM SIGPLAN Workshop on Functional Software Architecture - FP in the Large
 description: FUNARCH 2023 - Call for Papers
 img: assets/img/funarch-logo.jpg
 importance: 1
 category: work
 ---
 
-##  Call For Papers
-
-## First ACM SIGPLAN Workshop on Functional Software Architecture - FP in the Large
-
 - 8th September 2023, Seattle, Washington, USA
 - Co-located with ICFP 2023
 - [https://tinyurl.com/FUNARCH23](`https://tinyurl.com/FUNARCH23`)
 
-## Timeline
+## TIMELINE
 
 | **Paper submission** |	1st June 2023 |
 | **Author notification** |	28th June 2023 |
 | **Camera ready copy** |	18th July 2023 |
 | **Workshop** | 8th Sept 2023 (date to be confirmed) |
 
-## Background
+<br/>
+## BACKGROUND
 
 "Functional Software Architecture" refers to methods of construction
 and structure of large and long-lived software projects that are
@@ -41,7 +38,7 @@ typically in industry.  The goals for the workshop are:
 The workshop follows on from the Functional Software Architecture
 open space that was held at ICFP 2022 in Slovenia.
 
-## Scope
+## SCOPE
 
 The workshop seeks submissions in a range of categories:
 
@@ -122,9 +119,7 @@ are used, and authors are encouraged to strive for brevity.
 | **Experience reports**	| 3 to 6 pages |
 | **Open category**	|	1 to 6 pages |
 
-### Publication
-
-The proceedings of FUNARCH 2023 will be published in the ACM Digital
+Publication: The proceedings of FUNARCH 2023 will be published in the ACM Digital
 Library, and authors of accepted papers are required to agree to one
 of the standard ACM licensing options.  Accepted papers must be
 presented at the workshop by one of the authors, but in special cases
