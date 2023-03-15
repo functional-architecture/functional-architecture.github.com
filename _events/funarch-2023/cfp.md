@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FUNARCH 2023 - CALL FOR PAPERS
+title: CALL FOR PAPERS - FUNARCH 2023
 description: The First ACM SIGPLAN Workshop on Functional Software Architecture - FP in the Large
 img: assets/img/funarch-logo.jpg
 importance: 1
