@@ -48,7 +48,7 @@ The workshop seeks submissions in a range of categories:
   to support programming in the large, for example by framing
   functional ideas in architectural terms or vice verse, comparing
   different languages in terms of their architectural capabilities,
-  clarifying architectural roles played by formal methods, proofs
+  clarifying architectural roles played by formal methods, proof
   assistants and DSLs, or observing how functional concepts are
   used in other language and architecture communities.
 
@@ -103,8 +103,9 @@ the program chairs at <funarch2023@easychair.org>.
 Papers must be submitted by 1st June 2023 using the [EasyChair
 submission page](https://easychair.org/my/conference?conf=funarch2023).
 
-Formatting: submissions must be in PDF format and follow the ACM
-SIGPLAN style guidelines, using the acmart format and the sigplan
+Formatting: submissions indended for publication must be
+in PDF format and follow the ACM SIGPLAN style guidelines,
+using the acmart format and the sigplan
 sub-format.  Please use the review option when submitting, as this
 enables line numbers for easy reference in reviews.  For further
 details, see [SIGPLAN's author information](http://www.sigplan.org/Resources/Author/#acmart-format).
