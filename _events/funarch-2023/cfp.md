@@ -11,7 +11,7 @@ category: work
 
 Co-located with ICFP 2023
 
-[https://www.functional-architecture.org/events/funarch-2023/](`https://www.functional-architecture.org/events/funarch-2023/`)
+[Workshop Website](https://www.functional-architecture.org/events/funarch-2023/)
 
 ## TIMELINE
 
@@ -122,6 +122,7 @@ are used, and authors are encouraged to strive for brevity.
 | **Architectural pearls** |	5 to 12 pages |
 | **Experience reports**	| 3 to 6 pages |
 | **Open category**	|	1 to 6 pages |
+|                         | |
 
 Publication: The proceedings of FUNARCH 2023 will be published in the ACM Digital
 Library, and authors of accepted papers are required to agree to one
