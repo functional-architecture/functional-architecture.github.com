@@ -6,6 +6,7 @@ img: assets/img/funarch-logo.jpg
 importance: 1
 category: work
 ---
+
 8th September 2023, Seattle, Washington, USA
 
 Co-located with [ICFP 2023](https://icfp23.sigplan.org)
