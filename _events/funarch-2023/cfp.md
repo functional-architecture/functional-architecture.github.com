@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FUNARCH 2023 - CALL FOR PAPERS
-description: The First ACM SIGPLAN Workshop on Functional Software Architecture - FP in the Large
+description: First ACM SIGPLAN Workshop on Functional Software Architecture - FP in the Large
 img: assets/img/funarch-logo.jpg
 importance: 1
 category: work
@@ -10,6 +10,8 @@ category: work
 8th September 2023, Seattle, Washington, USA
 
 Co-located with [ICFP 2023](https://icfp23.sigplan.org)
+
+[https://tinyurl.com/FUNARCH23](https://tinyurl.com/FUNARCH23)
 
 ## Timeline
 
