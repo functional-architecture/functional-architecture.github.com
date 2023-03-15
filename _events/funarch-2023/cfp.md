@@ -9,13 +9,11 @@ category: work
 
 ##  Call For Papers
 
-## First ACM SIGPLAN Workshop on Functional Software Architecture
-
-### FP in the Large
+## First ACM SIGPLAN Workshop on Functional Software Architecture - FP in the Large
 
 - 8th September 2023, Seattle, Washington, USA
 - Co-located with ICFP 2023
-- [https://www.functional-architecture.org/events/funarch-2023](`https://www.functional-architecture.org/events/funarch-2023`)
+- [https://tinyurl.com/FUNARCH23](`https://tinyurl.com/FUNARCH23`)
 
 ## Timeline
 
@@ -26,7 +24,7 @@ category: work
 
 ## Background
 
-Functional Software Architecture" refers to methods of construction
+"Functional Software Architecture" refers to methods of construction
 and structure of large and long-lived software projects that are
 implemented in functional languages and released to real users,
 typically in industry.  The goals for the workshop are:
@@ -144,24 +142,24 @@ to two weeks prior to the first day of the workshop.
 ## PROGRAM COMMITTEE
 
 - [Joachim Breitner](https://www.joachim-breitner.de/)
-- [Manuel Chakravarty](https://justtesting.org/) (Tweak & IOG, The Netherlands)
+- [Manuel Chakravarty](https://justtesting.org/) (Tweak & IOG)
 - [Ron Garcia](https://www.cs.ubc.ca/~rxg/) (University of British Columbia)
+- [Debasish Ghosh](http://debasishg.blogspot.com/) (LeadIQ)
+- [Lars Hupel](https://lars.hupel.info/) (Giesecke+Devrient)
+- [Andy Keep](http://www.andykeep.com/) (Meta)
+- [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) (Brown University)
 - [Andres Löh](https://www.andres-loeh.de/) (Well-Typed)
 - [Anil Madhavapeddy](https://anil.recoil.org/) (University of Cambridge)
 - [José Pedro Magalhães](https://dreixel.net/) (Standard Chartered)
 - [Simon Marlow](https://simonmar.github.io/) (Meta)
-- Erik Meijer (Meta)
+- [Hannes Mehnert](https://hannes.robur.coop/) (Robur)
+- [Erik Meijer](https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)) (Meta)
 - [Ivan Perez](https://ivanperez.io/) (KBR / NASA Ames Research Center)
 - [Stefanie Schirmer](https://linse.me/) (DuckDuckGo)
 - [Perdita Stevens](https://www.inf.ed.ac.uk/people/staff/Perdita_Stevens.html)
   (University of Edinburgh)
 - [Stefan Wehr](https://www.stefanwehr.de/) (Hochschule Offenburg)
 - [Scott Wlaschin](https://scottwlaschin.com/) (FPbridge)
-- [Shriram Krishnamurthi](https://cs.brown.edu/~sk/) (Brown University)
-- [Lars Hupel](https://lars.hupel.info/) (Giesecke+Devrient)
-- [Debasish Ghosh](http://debasishg.blogspot.com/) (LeadIQ)
-- [Hannes Mehnert](https://hannes.robur.coop/) (Robur)
-- [Andy Keep](http://www.andykeep.com/) (Meta)
 
 ## WORKSHOP VENUE
 
