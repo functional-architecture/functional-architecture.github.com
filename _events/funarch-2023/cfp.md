@@ -9,7 +9,7 @@ category: work
 
 - 8th September 2023, Seattle, Washington, USA
 - Co-located with ICFP 2023
-- [https://tinyurl.com/FUNARCH23](`https://tinyurl.com/FUNARCH23`)
+- [https://www.functional-architecture.org/events/funarch-2023/](`https://www.functional-architecture.org/events/funarch-2023/`)
 
 ## TIMELINE
 
@@ -18,13 +18,14 @@ category: work
 | **Camera ready copy** |	18th July 2023 |
 | **Workshop** | 8th Sept 2023 (date to be confirmed) |
 
-<br/>
 ## BACKGROUND
 
 "Functional Software Architecture" refers to methods of construction
 and structure of large and long-lived software projects that are
 implemented in functional languages and released to real users,
-typically in industry.  The goals for the workshop are:
+typically in industry.
+
+The goals for the workshop are:
 
 - To assemble a community interested in software architecture
   techniques and technologies specific to functional programming;
