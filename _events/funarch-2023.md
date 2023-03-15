@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FUNARCH 2023
-description: The ACM SIGPLAN Workshop on Functional Architecture - FP in the Large
+description: The First ACM SIGPLAN Workshop on Functional Architecture - FP in the Large
 img: assets/img/funarch-logo.jpg
 importance: 1
 category: work
@@ -26,8 +26,7 @@ typically in industry.  The goals for the workshop are:
   architecture community to cross-pollinate between the two.
     
 FUNARCH 2023 will be co-colocated with [ICFP
-2023](https://icfp23.sigplan.org/) in Seattle, and likely happen on
-Sep 8 or 9 2023.
+2023](https://icfp23.sigplan.org/) in Seattle on 8th September 2023 (date to be confirmed)
 
 The [Call for Papers](cfp/) is open.
 
