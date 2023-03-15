@@ -9,9 +9,8 @@ category: work
 
 8th September 2023, Seattle, Washington, USA
 
-Co-located with [ICFP 2023](https://icfp23.sigplan.org)
-
-[FUNARCH 2023](https://tinyurl.com/FUNARCH23)
+[FUNARCH 2023](https://tinyurl.com/FUNARCH23) is
+co-located with [ICFP 2023](https://icfp23.sigplan.org)
 
 ## Timeline
 
