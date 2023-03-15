@@ -11,6 +11,7 @@ category: work
 
 Co-located with [ICFP 2023](https://icfp23.sigplan.org)
 
+<br/>
 ## Timeline
 
 | **Paper submission**    | &nbsp;&nbsp; | 1st June 2023 |
@@ -103,7 +104,7 @@ the program chairs at <funarch2023@easychair.org>.
 Papers must be submitted by 1st June 2023 using the [EasyChair
 submission page](https://easychair.org/my/conference?conf=funarch2023).
 
-Formatting: submissions indended for publication must be
+**Formatting**: submissions indended for publication must be
 in PDF format and follow the ACM SIGPLAN style guidelines,
 using the acmart format and the sigplan
 sub-format.  Please use the review option when submitting, as this
@@ -113,7 +114,7 @@ details, see [SIGPLAN's author information](http://www.sigplan.org/Resources/Aut
 If your submission is not a research paper, please mark this using
 a subtitle (Experience Report, Architectural Pearl, Open Category).
 
-Length: submissions must adhere to the limits specified below.
+**Length**: submissions must adhere to the limits specified below.
 However, there is no requirement or expectation that all pages
 are used, and authors are encouraged to strive for brevity.
 
@@ -123,7 +124,7 @@ are used, and authors are encouraged to strive for brevity.
 | **Open category**	   | | 1 to 6 pages |
 |                          | | |
 
-Publication: The proceedings of FUNARCH 2023 will be published in the ACM Digital
+**Publication**: The proceedings of FUNARCH 2023 will be published in the ACM Digital
 Library, and authors of accepted papers are required to agree to one
 of the standard ACM licensing options.  Accepted papers must be
 presented at the workshop by one of the authors, but in special cases
