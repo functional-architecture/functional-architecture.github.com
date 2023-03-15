@@ -7,14 +7,12 @@ importance: 1
 category: work
 ---
 
-<!-- see
-     https://github.com/alshedivat/al-folio/blob/master/_projects/1_project.md 
-     on how to write this -->
-
 "Functional Software Architecture" refers to methods of construction
 and structure of large and long-lived software projects that are
 implemented in functional languages and released to real users,
-typically in industry.  The goals for the workshop are:
+typically in industry.
+
+The goals for the workshop are:
 
 - To assemble a community interested in software architecture
   techniques and technologies specific to functional programming;
@@ -25,8 +23,8 @@ typically in industry.  The goals for the workshop are:
 - To connect the functional programming community to the software
   architecture community to cross-pollinate between the two.
     
-FUNARCH 2023 will be co-colocated with [ICFP
-2023](https://icfp23.sigplan.org/) in Seattle on 8th September 2023 (date to be confirmed)
+FUNARCH 2023 will be co-colocated with [ICFP 2023](https://icfp23.sigplan.org/)
+in Seattle on 8th September 2023 (date to be confirmed).
 
 The [Call for Papers](cfp/) is open.
 
