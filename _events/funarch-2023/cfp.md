@@ -9,7 +9,7 @@ category: work
 
 8th September 2023, Seattle, Washington, USA
 
-Co-located with ICFP 2023
+Co-located with [ICFP 2023](https://icfp23.sigplan.org)
 
 [Workshop Website](https://www.functional-architecture.org/events/funarch-2023/)
 

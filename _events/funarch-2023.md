@@ -24,11 +24,11 @@ The goals for the workshop are:
   architecture community to cross-pollinate between the two.
     
 FUNARCH 2023 will be co-colocated with [ICFP 2023](https://icfp23.sigplan.org/)
-in Seattle on 8th September 2023 (date to be confirmed).
+in Seattle on 8th September 2023.
 
 The [Call for Papers](cfp/) is open.
 
-News are available on [Mastodon](https://discuss.systems/@funarch) and
+News is available on [Mastodon](https://discuss.systems/@funarch) and
 [Twitter](https://twitter.com/ACMFUNARCH).
 
 
