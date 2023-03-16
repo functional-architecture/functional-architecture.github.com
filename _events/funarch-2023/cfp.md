@@ -143,7 +143,7 @@ to two weeks prior to the first day of the workshop.
 ## Program Committee
 
 - [Joachim Breitner](https://www.joachim-breitner.de/)
-- [Manuel Chakravarty](https://justtesting.org/) (Tweak & IOG)
+- [Manuel Chakravarty](https://justtesting.org/) (Tweag & IOG)
 - [Ron Garcia](https://www.cs.ubc.ca/~rxg/) (University of British Columbia)
 - [Debasish Ghosh](http://debasishg.blogspot.com/) (LeadIQ)
 - [Lars Hupel](https://lars.hupel.info/) (Giesecke+Devrient)
