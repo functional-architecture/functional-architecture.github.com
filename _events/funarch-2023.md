@@ -15,10 +15,10 @@ typically in industry.
 The goals for the workshop are:
 
 - To assemble a community interested in software architecture
-  techniques and technologies specific to functional programming.
+  techniques and technologies specific to functional programming;
 
 - To identify, categorize, and document topics relevant to
-  the field of functional software architecture.
+  the field of functional software architecture;
 
 - To connect the functional programming community to the software
   architecture community to cross-pollinate between the two.
