@@ -26,7 +26,7 @@ The goals for the workshop are:
 FUNARCH 2023 will be co-colocated with [ICFP 2023](https://icfp23.sigplan.org/)
 in Seattle on 8th September 2023.
 
-The [Call for Papers](cfp/) is open.
+The [Call for Papers](cfp/) is open - submission deadline 1st June 2023.
 
 News is available on [Mastodon](https://discuss.systems/@funarch) and
 [Twitter](https://twitter.com/ACMFUNARCH).
