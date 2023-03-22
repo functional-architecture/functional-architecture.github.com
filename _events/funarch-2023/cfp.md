@@ -19,10 +19,10 @@ category: work
 
 ## Timeline
 
-| **Paper submission** |	1st June 2023 |
-| **Author notification** |	28th June 2023 |
-| **Camera ready copy** |	18th July 2023 |
-| **Workshop** | 8th Sept 2023 (date to be confirmed) |
+| **Paper submission**    | 1st June 2023  |
+| **Author notification** | 28th June 2023 |
+| **Camera ready copy**   | 18th July 2023 |
+| **Workshop**            | 8th Sept 2023  |
 
 ## Background
 
