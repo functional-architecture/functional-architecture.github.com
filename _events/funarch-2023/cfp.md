@@ -131,9 +131,11 @@ of the standard ACM licensing options.  Accepted papers must be
 presented at the workshop by one of the authors, but in special cases
 we may consider remote presentation.
 
-The official publication date is the date the proceedings are
-made available in the ACM Digital Library.  This date may be up
-to two weeks prior to the first day of the workshop.
+The official publication date is the date the papers are made
+available in the ACM Digital Library. This date may be up to two
+weeks prior to the first day of the conference. The official
+publication date affects the deadline for any patent filings
+related to published work.
 
 ## Program Chairs
 
