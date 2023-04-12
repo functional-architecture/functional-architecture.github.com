@@ -1,20 +1,18 @@
 ---
 layout: page
 title: FUNARCH 2023
-description: The ACM SIGPLAN Workshop on Functional Architecture
+description: The First ACM SIGPLAN Workshop on Functional Software Architecture - FP in the Large
 img: assets/img/funarch-logo.jpg
 importance: 1
 category: work
 ---
 
-<!-- see
-     https://github.com/alshedivat/al-folio/blob/master/_projects/1_project.md 
-     on how to write this -->
-
-Functional Software Architecture" refers to methods of construction
+"Functional Software Architecture" refers to methods of construction
 and structure of large and long-lived software projects that are
 implemented in functional languages and released to real users,
-typically in industry.  The goals for the workshop are:
+typically in industry.
+
+The goals for the workshop are:
 
 - To assemble a community interested in software architecture
   techniques and technologies specific to functional programming;
@@ -25,13 +23,12 @@ typically in industry.  The goals for the workshop are:
 - To connect the functional programming community to the software
   architecture community to cross-pollinate between the two.
     
-FUNARCH 2023 will be co-colocated with [ICFP
-2023](https://icfp23.sigplan.org/) in Seattle, and likely happen on
-Sep 8 or 9 2023.
+FUNARCH 2023 will be co-colocated with [ICFP 2023](https://icfp23.sigplan.org/)
+in Seattle on 8th September 2023.
 
-The [Call for Papers](cfp/) is open.
+The [Call for Papers](cfp/) is open - submission deadline 1st June 2023.
 
-News are available on [Mastodon](https://discuss.systems/@funarch) and
+News is available on [Mastodon](https://discuss.systems/@funarch) and
 [Twitter](https://twitter.com/ACMFUNARCH).
 
 
